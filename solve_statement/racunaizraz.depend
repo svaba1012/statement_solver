@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1589196841 source:c:\users\svaba1012\documents\cpp\racunaizraz\linked_list.c
+	"Linked_list.h"
+
+1589196841 c:\users\svaba1012\documents\cpp\racunaizraz\linked_list.h
+	<stdlib.h>
+	<stdio.h>
+
+1589405613 source:c:\users\svaba1012\documents\cpp\racunaizraz\stack.c
+	"stack.h"
+
+1589196841 c:\users\svaba1012\documents\cpp\racunaizraz\stack.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"Linked_list.h"
+
+1602847022 source:c:\users\svaba1012\documents\cpp\racunaizraz\main.c
+	"proveriizraz.h"
+	"izracunajizraz.h"
+
+1589616534 source:c:\users\svaba1012\documents\cpp\racunaizraz\proveriizraz.c
+	"proveriizraz.h"
+
+1602843150 c:\users\svaba1012\documents\cpp\racunaizraz\proveriizraz.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"stack.h"
+
+1602843150 c:\users\svaba1012\documents\cpp\racunaizraz\izracunajizraz.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+	"stack.h"
+
+1602842817 source:c:\users\svaba1012\documents\cpp\racunaizraz\izracunajizraz.c
+	"izracunajizraz.h"
+
+1589754941 source:c:\users\svaba1012\documents\cpp\racunaizraz\resifunkciju.c
+	"resifunkciju.h"
+
+1589753312 c:\users\svaba1012\documents\cpp\racunaizraz\resifunkciju.h
+	"izracunajizraz.h"
+	"proveriizraz.h"
+	"stack.h"
+	<string.h>
+	<math.h>
+
